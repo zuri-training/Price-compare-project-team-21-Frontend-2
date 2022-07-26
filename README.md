@@ -219,6 +219,11 @@ Ayodele Ebudola
 - Github - https://github.com/DolaseunAyo
 - Stack - FullStack
 
+Emelike Adaeze
+- Email - Emelikepatience961@gmail.com
+- Github - https://github.com/Adaking-slack
+- Stack - FullStack
+
 ## Acknowledgements
 - This project was inspired by Zuri
 - Many thanks to Zuri and Ingressive 4 good
