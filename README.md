@@ -234,6 +234,11 @@ Adeboun Toyosi
 - Github - https://github.com/davideboun21
 - Stack - Backend
 
+Success Ogbenna
+- Email - successzero7@gmail.com
+- Github - https://github.com/successogbenna
+- Stack - FullStack
+
 ## Acknowledgements
 - This project was inspired by Zuri
 - Many thanks to Zuri and Ingressive 4 good
