@@ -224,6 +224,16 @@ Emelike Adaeze
 - Github - https://github.com/Adaking-slack
 - Stack - FullStack
 
+Oluwamuyiwa Lawal
+- Email - oluwamuyiwasodiq@gmail.com
+- Github - https://github.com/unkanmiL
+- Stack - Product Design
+
+Adeboun Toyosi
+- Email - davideboun@gmail.com
+- Github - https://github.com/davideboun21
+- Stack - Backend
+
 ## Acknowledgements
 - This project was inspired by Zuri
 - Many thanks to Zuri and Ingressive 4 good
