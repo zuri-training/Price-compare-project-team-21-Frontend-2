@@ -226,7 +226,7 @@ Emelike Adaeze
 
 Oluwamuyiwa Lawal
 - Email - oluwamuyiwasodiq@gmail.com
-- Github - https://github.com/unkanmiL
+- Github - https://github.com/SunkanmiL
 - Stack - Product Design
 
 Adeboun Toyosi
