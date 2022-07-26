@@ -1,5 +1,3 @@
-# Price-compare-project-team-21
-
 # Project-Team-21
 
 
