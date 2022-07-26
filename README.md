@@ -137,11 +137,82 @@ git push origin your-current-branch-name
 Will Omonaye
 - Email - omonayeg@gmail.com
 - GitHub - https://github.com/omonayeg
+- Stack - Frontend
 
 Oluwaseun Lijadu
 - Email - oluwaseunlijadu@gmail.com
 - Github - https://github.com/Seunlijadu
+- Stack - Product Design
 
+Saad Saheed
+- Email - janbaoda@gmail.com
+- Github - https://github.com/Saad-Saheed
+- Stack - Frontend
+
+Chukwuemeka Orioha
+- Email - chuksorioha@gmail.com
+- Github - https://github.com/Chuksorio
+- Stack - FullStack
+
+Buhari Yusuf
+- Email - buhariyusuf@gmail.com
+- Github - https://github.com/Yblaq
+- Stack - Product Design
+
+Paul Aderoju
+- Email - paul.adeboye@yahoo.com
+- Github - https://github.com/PaulBoye-py
+- Stack - FullStack
+
+Sherifat Shittu
+- Email - sherifatshe2@icloud.com
+- Github - https://github.com/sherifatshe2
+- Stack - Product Design
+
+Olaitan Bello
+- Email - obello156@gmail.com
+- Github - https://github.com/Bells-8
+- Stack - Product Design
+
+John Esiebo
+- Email - esiebojohn@gmail.com
+- Github - https://github.com/jesiebo
+- Stack - Frontend
+
+Oluwasegun Adedeji
+- Email - Oluwasheges@gmail.com
+- Github - https://github.com/Hephzihub
+- Stack - Frontend
+
+Adekunle Rasheed
+- Email - demandwork247@gmail.com
+- Github - https://github.com/Demandtech
+- Stack - Frontend
+
+Afebu Balogun
+- Email - balogunafebu22@gmail.com
+- Github - https://github.com/Afeh
+- Stack - Backend
+
+Kenneth Akhonokhue
+- Email - kennethafegbai@gmail.com
+- Github - https://github.com/kennethafegbai
+- Stack - FullStack
+
+Peace Oyewole
+- Email - Oyewolepeace94@gmail.com
+- Github - https://github.com/Peacefsps
+- Stack - Frontend
+
+Mark Anthony
+- Email - markaanthony.a@gmail.com
+- Github - https://github.com/markkvngs
+- Stack - Product Design
+
+Oyedele Oluwatimilehin
+- Email - Oyedelesegun247@gmail.com
+- Github - https://github.com/Segun247
+- Stack - Product Design
 
 ## Acknowledgements
 - This project was inspired by Zuri
