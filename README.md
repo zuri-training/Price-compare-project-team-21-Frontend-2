@@ -182,7 +182,7 @@ John Esiebo
 Oluwasegun Adedeji
 - Email - Oluwasheges@gmail.com
 - Github - https://github.com/Hephzihub
-- Stack - Frontend
+- Stack - FullStack
 
 Adekunle Rasheed
 - Email - demandwork247@gmail.com
@@ -213,6 +213,11 @@ Oyedele Oluwatimilehin
 - Email - Oyedelesegun247@gmail.com
 - Github - https://github.com/Segun247
 - Stack - Product Design
+
+Ayodele Ebudola
+- Email - dolaayo20@gmail.com
+- Github - https://github.com/DolaseunAyo
+- Stack - FullStack
 
 ## Acknowledgements
 - This project was inspired by Zuri
