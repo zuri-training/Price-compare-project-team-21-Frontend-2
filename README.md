@@ -244,6 +244,10 @@ Oke Abosede
 - GitHub - https://github.com/Ade-nike17
 - Stack - FullStack
 
+ezemenahi chiamaka sylvia
+- Email - ezemenahichiamaka@gmail.com
+- GitHub - https://github.com/chezclsy
+- Stack - Product Design
 
 ## Acknowledgements
 - This project was inspired by Zuri
