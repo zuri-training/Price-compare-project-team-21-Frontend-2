@@ -2,8 +2,13 @@
 
 
 # PriceBeta - A price aggregator website
-> PriceBeta, a comparison shopping engine, is a tool or platform that allows users to compare price of various products, and shipping options  across multiple merchants and retailers platforms and in the process presenting the users with price offers that best meets their interest. 
+> PriceBeta, a comparison shopping engine, is a tool or platform that allows users to compare price of various products, and shipping options  across multiple merchants and retailers platforms and in the process presenting the users with price offers that best meets their interest.
 
+### Project Documentation
+> <a href="https://docs.google.com/document/d/1yaiog7p-ce9JNXCFoObXCryWerGuXBECMKkDxz2Il1Y/edit">Team 21_Price compare</a>
+
+### Member Info and Attendance
+> <a href="https://docs.google.com/spreadsheets/d/1Q-leU7gkbaB_k7wxZxNqxBdzxy9mPy5qTXtAS71bToQ/edit">Team 21_Price Compare</a>
 
 ## Table of Contents
 * [General Information](#general-information)
@@ -89,11 +94,11 @@ Project is: _in progress_
 
 
 ## Collaboration
-1.  Fork the repository
+1.  Fork this repository and create a project folde on your local manchine
 
-2.  Clone and then open it up on your prefered code editor
+2. Navigate to the terminal (pointing to your project folder/directory), Clone and then open it up on your prefered code editor
 ```bash 
-git clone https://github.com/zuri-training/Price-compare-project-team-21-Frontend.git
+git clone https://github.com/<your github username>/Price-compare-project-team-21-Frontend.git
 ```
 
 3.  Open terminal and set upsream branch:  
@@ -238,6 +243,16 @@ Success Ogbenna
 - Email - successzero7@gmail.com
 - Github - https://github.com/successogbenna
 - Stack - FullStack
+
+Oke Abosede
+- Email - perfectnyke@gmail.com
+- GitHub - https://github.com/Ade-nike17
+- Stack - FullStack
+
+Ezemenahi Chiamaka Sylvia
+- Email - ezemenahichiamaka@gmail.com
+- GitHub - https://github.com/chezclsy
+- Stack - Product Design
 
 ## Acknowledgements
 - This project was inspired by Zuri
