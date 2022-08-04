@@ -4,11 +4,21 @@
 # PriceBeta - A price aggregator website
 > PriceBeta, a comparison shopping engine, is a tool or platform that allows users to compare price of various products, and shipping options  across multiple merchants and retailers platforms and in the process presenting the users with price offers that best meets their interest.
 
+### Project Presentation 
+> <a href="https://drive.google.com/file/d/1ofWTmmhIvufGERQuQCV9NSlkCLRAaGvz/view?usp=drivesdk">Team 21_Price compare</a>
+
+
 ### Project Documentation
 > <a href="https://docs.google.com/document/d/1yaiog7p-ce9JNXCFoObXCryWerGuXBECMKkDxz2Il1Y/edit">Team 21_Price compare</a>
 
+### Project Figma Board
+> <a href="https://www.figma.com/file/2Rm18o3n7a86AcfpdZgrYF/PriceBeta?node-id=0%3A1">Team 21_Price compare</a>
+
+### Project Database Schema
+> <a href="https://www.figma.com/file/2Rm18o3n7a86AcfpdZgrYF/PriceBeta?node-id=221%3A2019">Team 21_Price compare</a>
+
 ### Member Info and Attendance
-> <a href="https://docs.google.com/spreadsheets/d/1Q-leU7gkbaB_k7wxZxNqxBdzxy9mPy5qTXtAS71bToQ/edit">Team 21_Price Compare</a>
+> <a href="https://docs.google.com/spreadsheets/d/1Q-leU7gkbaB_k7wxZxNqxBdzxy9mPy5qTXtAS71bToQ/edit">Team 21_Price compare</a>
 
 ## Table of Contents
 * [General Information](#general-information)
@@ -33,7 +43,7 @@
 - HTML/CSS/Javascript (Frontend)
 - MYSQL (Database)
 - Bootstrap - version 5.0 (Frontend Library)
-- Django - version (Backend)
+- Django - version 4.0 (Backend)
 
 
 ## Features
