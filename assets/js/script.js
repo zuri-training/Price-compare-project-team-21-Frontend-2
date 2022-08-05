@@ -24,6 +24,8 @@ moreArrow.onclick = function() {
  navLinks.classList.toggle("show2");
 };
 
+// owlCarousel 
+
 $(".carousel").owlCarousel({
     margin: 20,
     loop: true,
@@ -45,3 +47,10 @@ $(".carousel").owlCarousel({
       }
     }
   });
+
+// Profile-Icon
+  var dd_main = document.querySelector(".dd_main");
+
+	dd_main.addEventListener("click", function(){
+		this.classList.toggle("active");
+	})
