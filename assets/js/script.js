@@ -47,6 +47,7 @@ $(".carousel").owlCarousel({
       }
     }
   });
+  
 
 // Profile-Icon
   var dd_main = document.querySelector(".dd_main");
