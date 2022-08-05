@@ -1,20 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('http://fonts.cdnfonts.com/css/sf-pro-display');
+                
 :root {
   --blue: #00c0f0;
   --bluehover: #00add8;
   --blueactive: #009ac0;
+  --bluedark: #0090b4;
 }
 
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'SF Pro Display','Poppins', sans-serif;
 }
 
 body{
   color: #fff;
-  font-family: 'Poppins', serif;
+  font-family: 'SF Pro Display', 'Poppins', serif;
 }
 
 nav{
@@ -288,7 +291,7 @@ nav .navbar .links li .sub-menu li{
 
  .dd_menu li{
 	margin-bottom: 10px;
-	color: #868686;
+	color: #474747;
 }
 
  .dd_menu:before{
@@ -312,6 +315,7 @@ nav .navbar .links li .sub-menu li{
     min-width: 57px;
     background-color: var(--blueactive);
     padding: 5px;
+    color: white;
     border: 1px solid var(--blueactive);
     border-radius: 5px;
 }
@@ -323,6 +327,15 @@ nav .navbar .links li .sub-menu li{
 .profile-btn > a {
     text-decoration: none;
     color: white;
+}
+
+.dd_right li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+hr {
+  color: #000;
 }
 
 /* Profile-Icon ends here */
@@ -527,6 +540,21 @@ footer {
 .footer-section1 {
     display: flex;
     justify-content: space-evenly;
+}
+
+ .socials > .first-row i, .socials > .second-row  i {
+  font-size: 1.3rem;
+  color: #00566c;
+  padding: 9px;
+}
+
+.socials > .first-row i:hover, .socials > .second-row  i:hover {
+  color: white;
+}
+
+.first-row , .second-row {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .footer-section2 {
