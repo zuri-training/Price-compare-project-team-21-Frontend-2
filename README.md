@@ -170,7 +170,8 @@ Chukwuemeka Orioha
 - Stack - FullStack
 
 Forever Obaseki
-- Email - foreverobaseki@gmail.com. - Github - http://github.com/EverObas 
+- Email - foreverobaseki@gmail.com
+- Github -http://github.com/EverObas 
 - Stack - Product Design 
 
 Buhari Yusuf
